@@ -9,7 +9,7 @@ export const experience = [
     company: 'Live Stream Technology (LST)',
     role: 'Python with Data Science Internship',
     duration: '15 days',
-    dates: '[Start date] - [End date]',
+    dates: '20th-JUNE-2025 to 05th-JULY-2025',
     points: [],
   },
   {
@@ -17,7 +17,7 @@ export const experience = [
     company: 'Codtech IT Solutions Private Limited',
     role: 'Python Programming Internship',
     duration: '4 weeks',
-    dates: '[Start date] - [End date]',
+    dates: '10th-OCTOBER-2025 to 10th-NOVEMBER-2025',
     points: [],
   },
   {
@@ -25,7 +25,7 @@ export const experience = [
     company: 'Vazhai',
     role: 'AI/ML Internship',
     duration: '[Duration]',
-    dates: '[Start date] - [End date]',
+    dates: '01st-JUNE-2026 to 30th-JUNE-2026',
     points: [],
   },
 ]
