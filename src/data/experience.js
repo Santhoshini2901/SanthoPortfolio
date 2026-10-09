@@ -24,7 +24,7 @@ export const experience = [
     id: 'vazhai',
     company: 'Vazhai',
     role: 'AI/ML Internship',
-    duration: '[Duration]',
+    duration: '20 days',
     dates: '01st-JUNE-2026 to 30th-JUNE-2026',
     points: [],
   },
