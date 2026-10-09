@@ -14,14 +14,14 @@ export const certificates = [
     id: 'infosys-dsa',
     title: 'DSA Using Python',
     issuer: 'Infosys',
-    image: 'DSA certificate.jpg',
+    image: 'src/assets/certificates/DSA certificate.jpg',
     verifyUrl: '',
   },
   {
     id: 'infosys-java',
     title: 'Java Foundation',
     issuer: 'Infosys',
-    image: 'Java achivement.jpg',
+    image: '',
     verifyUrl: '',
   },
   {
