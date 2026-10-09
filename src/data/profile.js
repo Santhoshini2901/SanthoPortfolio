@@ -25,7 +25,7 @@ export const profile = {
     'I am building my programming, web development, database, and problem-solving skills through hands-on projects and continuous learning.',
   ],
   strengths: [
-    
+    'Quick learner',
     'Problem-solving mindset',
     'Willingness to learn new technologies',
     'Continuous self-improvement',
