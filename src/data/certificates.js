@@ -19,7 +19,7 @@ export const certificates = [
   },
   {
     id: 'infosys-java',
-    title: 'Java Foundation / Java Programming',
+    title: 'Java Foundation',
     issuer: 'Infosys',
     image: '',
     verifyUrl: '',
@@ -41,14 +41,14 @@ export const certificates = [
   {
     id: 'python-aiml-internships',
     title: 'Python and AI/ML Internship Certificates',
-    issuer: 'LST / Codtech / Vazhai',
+    issuer: 'Vazhai',
     image: '',
     verifyUrl: '',
   },
   {
     id: 'other-technical',
-    title: 'Other Relevant Technical Certificates',
-    issuer: '[Issuer]',
+    title: 'Java Programming',
+    issuer: 'Infosys'
     image: '',
     verifyUrl: '',
   },
