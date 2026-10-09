@@ -40,7 +40,7 @@ export const certificates = [
   },
   {
     id: 'python-aiml-internships',
-    title: 'Python and AI/ML Internship Certificates',
+    title: 'AI/ML Internship Certificates',
     issuer: 'Vazhai',
     image: 'Vazhai AIML certifications.jpeg',
     verifyUrl: '',
