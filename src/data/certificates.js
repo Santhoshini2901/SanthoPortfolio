@@ -48,7 +48,7 @@ export const certificates = [
   {
     id: 'other-technical',
     title: 'Java Programming',
-    issuer: 'Infosys'
+    issuer: 'Infosys',
     image: 'Javaprogramming-certificate.jpg',
     verifyUrl: '',
   },
