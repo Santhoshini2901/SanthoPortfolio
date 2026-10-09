@@ -28,7 +28,7 @@ export const certificates = [
     id: 'gl-english',
     title: 'Smart English Basics for Professionals',
     issuer: 'Great Learning',
-    image: 'great learning certificate.jpg',
+    image: 'src/assets/certificates/great learning certificate.jpg',
     verifyUrl: '',
   },
   {
