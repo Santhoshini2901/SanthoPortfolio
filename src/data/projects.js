@@ -22,8 +22,8 @@ export const projects = [
     featuresLabel: 'Planned features',
     goal: 'Goal: improve accessibility, reduce crowding, and make ration distribution more efficient.',
     tech: ['React', 'TypeScript', 'Vite', 'Python', 'FastAPI', 'SQLAlchemy', 'Database (as implemented)'],
-    github: '',
-    demo: '',
+    github: 'Soon...',
+    demo: 'Soon...',
   },
   {
     id: 'hrms',
@@ -35,8 +35,8 @@ export const projects = [
     featuresLabel: 'Concept scope',
     goal: '',
     tech: ['HTML', 'CSS', 'JavaScript', 'React', 'Node.js (where implemented)'],
-    github: '',
-    demo: '',
+    github: 'https://github.com/soniyapremnath2007-commits/dayflow-hr-system',
+    demo: 'Soon...',
   },
   {
     id: 'coding-quiz',
@@ -54,7 +54,7 @@ export const projects = [
     featuresLabel: 'Quiz formats',
     goal: '',
     tech: ['HTML', 'CSS', 'JavaScript', 'Django Templates'],
-    github: '',
-    demo: '',
+    github: 'https://github.com/Vimal4hckr/FullStack-Collaborative-THRON-S-5',
+    demo: 'Soon...',
   },
 ]
