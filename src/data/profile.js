@@ -16,9 +16,9 @@ export const profile = {
   goal: 'Software Developer / Full Stack Developer',
 
   // REPLACE these three with your real details.
-  email: 'YOUR-EMAIL@example.com',
-  github: 'https://github.com/YOUR-GITHUB-USERNAME',
-  linkedin: 'https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME',
+  email: 'santhoshini2901@gmail.com',
+  github: 'https://github.com/Santhoshini2901',
+  linkedin: 'https://www.linkedin.com/in/santhoshini29/',
 
   about: [
     'I am a third-year Computer Science and Engineering student working towards a career in software development.',
