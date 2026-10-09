@@ -21,7 +21,7 @@ export const certificates = [
     id: 'infosys-java',
     title: 'Java Foundation',
     issuer: 'Infosys',
-    image: '',
+    image: 'src/assets/certificates/Java achivement.jpg',
     verifyUrl: '',
   },
   {
