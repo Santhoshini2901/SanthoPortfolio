@@ -14,7 +14,7 @@ export const skillGroups = [
   {
     title: 'Tools',
     icon: 'wrench',
-    items: ['Git', 'GitHub', 'VS Code', 'Microsoft Excel', 'Microsoft Office', 'Canva'],
+    items: ['Git', 'GitHub', 'VS Code', 'Microsoft Excel','Canva'],
   },
   {
     title: 'Additional Knowledge',
