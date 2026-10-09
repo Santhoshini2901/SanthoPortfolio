@@ -35,7 +35,7 @@ export const certificates = [
     id: 'cit-events',
     title: 'Event Participation Certificates',
     issuer: 'CIT Coimbatore',
-    image: 'CIT Event certificate.jpeg',
+    image: 'src/assets/certificates/CIT Event certificate.jpeg',
     verifyUrl: '',
   },
   {
