@@ -10,7 +10,7 @@ export const profile = {
   intro:
     'I am a passionate Computer Science Engineering student interested in software development, web technologies, and AI-powered applications. I enjoy learning new technologies, building practical projects, and continuously improving my technical and problem-solving skills.',
   degree: 'B.E. Computer Science and Engineering',
-  college: 'VSB College of Engineering Technical Campus',
+  college: 'VSB College of Engineering and Technical Campus',
   year: '3rd Year',
   location: 'Tamil Nadu, India',
   goal: 'Software Developer / Full Stack Developer',
